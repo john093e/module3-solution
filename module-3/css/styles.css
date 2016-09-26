@@ -2,7 +2,7 @@
 #header-nav{border:none;}
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{background-color: #c99874;}
 #collapsable-nav{background-color:#FFEBCD;}
-.navbar-default {background-color:#DEB887; border-radius: 0px;}
+.navbar-default {background-color:#DEB887; border-radius: 0px; margin-bottom: 10px;}
 #section{height: 1000px; background-color: #FFEBCD;}
 @media screen and (min-width: 768px){
 	#collapsable-nav{background-color:#DEB887;}
